@@ -6,8 +6,14 @@ h1 {
     text-align: center;
 }
 
+<<<<<<< HEAD
 .container {
     margin: 0 auto;
     width: 800px;
     text-align: center;
 }
+=======
+.clickable {
+    cursor:hand;
+   }
+>>>>>>> Yongju_Lee_feature1
